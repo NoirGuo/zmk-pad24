@@ -1,10 +1,10 @@
 layers:
   default:
   - {t: ESC, h: contrl}
-  - TAB
-  - BSPC
+  - BACKSPACE
+  - DEL
   - '='
-  - KP NLCK
+  - TAB
   - KP SLASH
   - KP MULTIPLY
   - KP MINUS
@@ -42,4 +42,4 @@ layers:
   - {t: BT, h: '2'}
   - {t: ▽, type: trans}
   - BT CLR
-  - {t: ▽, type: trans}
+  - BT CLR ALL
